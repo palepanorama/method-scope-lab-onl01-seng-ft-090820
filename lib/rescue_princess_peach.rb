@@ -4,5 +4,5 @@ def rescue_princess_peach
 end
 
 
-rescue_princess_peach(status)
+rescue_princess_peach
 
